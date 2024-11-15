@@ -1,5 +1,7 @@
 # CosyVoice
-# step1.使用3s极速复制合成一次音频并保存音色； step2.使用预训练音色，并选择所需的新增音色用于合成音频。
+保存和使用自定义音色：
+step1.使用3s极速复制合成一次音频，并输入新增音色名称保存音色； 
+step2.使用预训练音色，并选择所需的新增音色用于合成音频。
 ## 👉🏻 [CosyVoice Demos](https://fun-audio-llm.github.io/) 👈🏻
 [[CosyVoice Paper](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf)][[CosyVoice Studio](https://www.modelscope.cn/studios/iic/CosyVoice-300M)][[CosyVoice Code](https://github.com/FunAudioLLM/CosyVoice)]
 
